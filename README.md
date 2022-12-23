@@ -57,10 +57,15 @@ Churn: Customer who are churned/retained (Target Variable True, False).
 # Solutions to Reduce Customer Churn
 
 •International Plan has to be modified as the call charge is same as the customers with no Internatinal plan.
+
 •Customer service to be modified by rectifying the complaints/promblems raised by customers effictively. And, Feedbacks has to taken time to time.
+
 •Look at the customers facing problem in the most churning states.
+
 •Resove Poor Network Connectivity Issue in the states with higher churning rate.
+
 •Run predictive analysis on the customers, promote new offers to customers who are likely to churn.
+
 •Stay competitive and adopt the latest technolgies for attracting the new customers as well as retaing the existing customers.
 
 # Conclusion
