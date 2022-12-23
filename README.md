@@ -9,27 +9,47 @@ Orange S.A., formerly France Télécom S.A., is a French multinational telecommu
 # Dataset Information
 
 Dataset has 20 features, of which 19 are predictor variables and ons is Target variable.
-Variables Description
+
+Variables Description:
 
 State: Describes the state of the telecom account. There are 51 states in total.
+
 Account Length: From how long the account is active.
+
 Area Code: Describes which states are under in which Area code. There are a total of 3 Area codes.
+
 lnternational Plan: How many accounts are having International plan(yes,no)
+
 Voicemail Plan: How many accounts are having Voice Mail plan subscription-(yes,no)
+
 Voicemail Message: No.of voice mail messages have been sent in the given time.
+
 Total Day Minutes: Total number of day minutes talked in a day.
+
 Total Day calls: Total Number of calls made in a day.
+
 Total Day Charge: Cost per Total Number of calls made in a day.
+
 Total Eve Mins: Total number of minutes talked in Evening.
+
 Total Eve Calls: Total evening calls made in the Evening.
+
 Total Eve Charge: Cost per Total Number of calls made in Evening.
+
 Total Night Mins: Total number of minutes talked in the Night.
+
 Total Night Calls: Total Number of calls made in Night.
+
 Night Charge: Cost per Total Number of calls made in night.
+
 International Minutes: Total number of minutes used.
+
 International Calls: Total number of International calls made
+
 International Charge: Cost per Total Number of International calls used. International
+
 Customer Service calls: Number of customer service calls made.
+
 Churn: Customer who are churned/retained (Target Variable True, False).
 
 
